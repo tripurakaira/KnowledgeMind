@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+build/
+dist/
+eggs/
+*.egg-info/
+
+# Pyenv
+.python-version
+
+# VSCode
+.vscode/
+
+# macOS
+.DS_Store
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# Environment
+.env
+.env.*
+
+# Data and uploads
+uploads/
+vector_db/
+
+# IDE
+.idea/
+
+# Logs
+*.log
