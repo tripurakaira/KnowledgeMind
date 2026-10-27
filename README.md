@@ -23,8 +23,19 @@ npm install
 npm run dev
 # open http://localhost:5173
 ```
+## Application Screenshots
 
-Repository
+### Dashboard
+![KnowledgeMind Dashboard](screenshots/01-dashboard.png)
+
+### Document Processing and Indexing
+![Document Indexing](screenshots/02-document-indexing.png)
+
+### AI-Powered Question Answering
+![Question Answering](screenshots/03-question-answering.png)
+
+### FastAPI Backend Documentation
+![FastAPI Documentation](screenshots/04-api-documentation.png)
 
 To push to GitHub:
 
