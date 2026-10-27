@@ -26,18 +26,24 @@ npm run dev
 ## Application Screenshots
 
 ### Dashboard
-![KnowledgeMind Dashboard](screenshots/01-dashboard.png)
+![KnowledgeMind Dashboard]
 <img width="1620" height="885" alt="01-dashboard png" src="https://github.com/user-attachments/assets/eeb0285b-34e9-4c5c-918c-494e97feb899" />
 
 
 ### Document Processing and Indexing
-![Document Indexing](screenshots/02-document-indexing.png)
+![Document Indexing]
+<img width="717" height="832" alt="02-document-indexing png" src="https://github.com/user-attachments/assets/6bd99112-fa3d-421c-85ec-ade34c6f47b5" />
+
 
 ### AI-Powered Question Answering
-![Question Answering](screenshots/03-question-answering.png)
+![Question Answering]
+<img width="1425" height="638" alt="03-question-answering png" src="https://github.com/user-attachments/assets/f9468cf8-7d39-4ba5-b02e-137856701f4e" />
+
 
 ### FastAPI Backend Documentation
-![FastAPI Documentation](screenshots/04-api-documentation.png)
+![FastAPI Documentation]
+<img width="1863" height="891" alt="04-api-documentation png" src="https://github.com/user-attachments/assets/ce9f4853-1c36-4eb1-a074-1f0a2d3d45ba" />
+
 
 To push to GitHub:
 
