@@ -27,6 +27,8 @@ npm run dev
 
 ### Dashboard
 ![KnowledgeMind Dashboard](screenshots/01-dashboard.png)
+<img width="1620" height="885" alt="01-dashboard png" src="https://github.com/user-attachments/assets/eeb0285b-34e9-4c5c-918c-494e97feb899" />
+
 
 ### Document Processing and Indexing
 ![Document Indexing](screenshots/02-document-indexing.png)
